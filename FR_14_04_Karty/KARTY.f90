@@ -1,3 +1,4 @@
+!!!https://pl.spoj.com/problems/FR_14_04/
 program karty
     implicit none
     interface
@@ -6,7 +7,6 @@ program karty
             character(len=13) :: wszystkie
         end function wynik
     end interface
-    
     
     character(len=52) :: j, s
     integer :: wj, ws
@@ -30,8 +30,8 @@ program karty
         write(*,*) 'REMIS'
     end if 
     
-    write(*,*) wj
     end program karty
+
     integer function wynik(x)
         character :: x
         character(len=13) :: wszystkie
