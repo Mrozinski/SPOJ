@@ -1,4 +1,5 @@
 /* https://pl.spoj.com/problems/FR_12_02/ */
+
 #include <iostream>
 #include <string>
 using namespace std;
