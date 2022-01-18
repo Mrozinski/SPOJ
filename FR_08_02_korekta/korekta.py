@@ -1,4 +1,5 @@
 # https://pl.spoj.com/problems/FR_08_02/
+
 t=int(input())
 while t>0:
     line=list(map(int,input().split()))
