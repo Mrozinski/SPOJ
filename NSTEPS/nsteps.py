@@ -21,3 +21,4 @@ for _ in range(n):
     else:
         print("No Number")
     
+    
