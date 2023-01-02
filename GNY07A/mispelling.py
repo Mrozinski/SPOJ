@@ -6,4 +6,4 @@
 n=  int(input())
 for i in range(n):
     j, word = input().split()
-    print(f'{i+1} {word[:int(j)]+word[int(j)+1:]}')
+    print(f'{i+1} {word[:int(j)-1]+word[int(j):]}')
