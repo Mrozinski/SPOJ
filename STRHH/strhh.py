@@ -8,3 +8,4 @@ for _ in range(n):
     word = input()
     l = len(word)
     print(''.join([word[i] for i in range(int(l/2)) if i%2==0]))
+    
