@@ -1,5 +1,5 @@
 # SMPCIRC - Two Circles
-# https://www.spoj.com/submit/SMPCIRC/
+# https://www.spoj.com/problems/SMPCIRC/
 # Pawel Mrozinski
 # 04-01-2023
 
