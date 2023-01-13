@@ -4,7 +4,6 @@
 ! pawel@szachowe.pl
 ! 13.01.2023
 
-
 program FR_16_03
 
 character(100)  :: line
